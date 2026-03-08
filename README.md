@@ -91,8 +91,5 @@ Semantic Analysis
 ↓
 Assembly Code Generation
 ```
-↓
-Semantic Analysis
-↓
-Assembly Code Generation
+
 
