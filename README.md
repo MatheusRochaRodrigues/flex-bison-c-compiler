@@ -79,7 +79,8 @@ string empresa;
 
 ```
 ## Compilation Process
- 
+
+```
 Source Code
 ↓
 Lexical Analysis (Flex)
@@ -89,3 +90,9 @@ Syntax Analysis (Bison)
 Semantic Analysis
 ↓
 Assembly Code Generation
+```
+↓
+Semantic Analysis
+↓
+Assembly Code Generation
+
